@@ -1,0 +1,22 @@
+{
+  "name": "fragbot",
+  "version": "1.0.0",
+  "description": "This is a script to run a fragbot (Note: you need an account for the bot)",
+  "main": "FragBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xSqne/FragBot.git"
+  },
+  "author": "xSqne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xSqne/FragBot/issues"
+  },
+  "homepage": "https://github.com/xSqne/FragBot#readme",
+  "dependencies": {
+    "mineflayer": "^3.11.0"
+  }
+}
